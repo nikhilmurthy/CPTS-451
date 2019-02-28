@@ -1,0 +1,8 @@
+c:\users\sada\documents\visual studio 2012\Projects\WindowsFormsApplication14\WindowsFormsApplication14\bin\Debug\WindowsFormsApplication14.exe.config
+c:\users\sada\documents\visual studio 2012\Projects\WindowsFormsApplication14\WindowsFormsApplication14\bin\Debug\WindowsFormsApplication14.exe
+c:\users\sada\documents\visual studio 2012\Projects\WindowsFormsApplication14\WindowsFormsApplication14\bin\Debug\WindowsFormsApplication14.pdb
+c:\users\sada\documents\visual studio 2012\Projects\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.Form1.resources
+c:\users\sada\documents\visual studio 2012\Projects\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.Properties.Resources.resources
+c:\users\sada\documents\visual studio 2012\Projects\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.csproj.GenerateResource.Cache
+c:\users\sada\documents\visual studio 2012\Projects\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.exe
+c:\users\sada\documents\visual studio 2012\Projects\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.pdb
