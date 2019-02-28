@@ -14,7 +14,7 @@ namespace WindowsFormsApplication14
     public partial class Form1 : Form
     {
         string sql;
-        string connetionString = "Provider=SQLOLEDB;Data Source=SADA-PC\\SQLEXPRESS;Initial Catalog=YelpDB; Integrated Security=SSPI; Connection Timeout = 100";
+        string connetionString = "Provider=SQLOLEDB;Data Source=My_Source;Initial Catalog=YelpDB; Integrated Security=SSPI; Connection Timeout = 100";
         OleDbConnection connection;
 
         DataSet ds_location = new DataSet();
